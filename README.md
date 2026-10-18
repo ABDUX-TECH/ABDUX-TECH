@@ -3,7 +3,9 @@
 <h2>ABDUX-TECH</h2>
 <p><strong>BACKEND DEVELOPER IN PROGRESS</strong></p>
 
-<img width="2135" height="1285" alt="image" src="https://github.com/user-attachments/assets/0d0a8d32-176d-4f41-8e36-c927bd18b975" />
+
+<img src="https://komarev.com/ghpvc/?username=ABDUX-TECH&style=flat-square&color=00ff66&label=PROFILE+VIEWS" alt="Profile Views" />
+
 
 
 
