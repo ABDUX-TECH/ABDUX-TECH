@@ -3,7 +3,8 @@
 <h2>ABDUX-TECH</h2>
 <p><strong>BACKEND DEVELOPER IN PROGRESS</strong></p>
 
-<img src="https://komarev.com/ghpvc/?username=ABDUX-TECH&style=flat-square&color=00ff66&label=PROFILE+VIEWS" alt="Profile Views" />
+![Uploading 3ed768bc9ce8d1c1e2ce07082e1a690c.jpg…]()
+
 
 
 
