@@ -1,10 +1,5 @@
-<div align="center">
-
-<h2>ABDUX-TECH</h2>
-<p><strong>BACKEND DEVELOPER IN PROGRESS</strong></p>
-
 <p align="center">
-  <img src="./assets/fai1th-logo.svg?v=3" alt="ABDUX" width="640" />
+  <img src="./assets/fai1th-logo.svg?v=3" alt="Fai1th" width="640" />
 </p>
 
 ## Stack
