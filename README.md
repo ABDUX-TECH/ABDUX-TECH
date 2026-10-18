@@ -3,7 +3,8 @@
 <h2>ABDUX-TECH</h2>
 <p><strong>BACKEND DEVELOPER IN PROGRESS</strong></p>
 
-![Uploading 3ed768bc9ce8d1c1e2ce07082e1a690c.jpg…]()
+<img width="1080" height="1080" alt="3ed768bc9ce8d1c1e2ce07082e1a690c" src="https://github.com/user-attachments/assets/07fbf1a4-91cb-40d6-8af3-c422335b7b31" />
+
 
 
 
